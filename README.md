@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thivas12 [Keerthivasan Kannan]
-- 👀 I’m interested in exploring data and new ways to plot and show it
+- 👀  “It’s easy to lie with statistics. It’s hard to tell the truth without statistics.” – By Andrejs Dunkels
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me : LinkedIn -> https://www.linkedin.com/in/keerthivasan-kannan-257585153/
 
