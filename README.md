@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me : LinkedIn -> https://www.linkedin.com/in/keerthivasan-kannan-257585153/
 
-Computer programmer and Automation Specialist with experience on python and machine learning projects. 
-Experience with R, Scala, SQL. Learning Data Science stream projects for last 6 months. I am open to learning new things 
-and getting involved with new projects that can help me learn or apply all that I have learned throughout my career.
+“If you can’t explain it simply, you don’t understand it well enough.” - Albert Einstein.
+
+Computer programmer and aspiring Data Scientist with experience on python and machine learning projects. Experience with R, Scala, SQL. Learning Data Science stream projects for last 6 months. Took an initiative of technical and non-technical startups. Complex problem-solver with analytical and driven mindset. Dedicated to achieving demanding development objectives according to tight schedules while producing impeccable code.
 <!---
 
 --->
